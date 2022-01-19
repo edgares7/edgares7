@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Spotify](https://spotify-now-playing-drab-phi.vercel.app/api/spotify)](https://open.spotify.com/user/bpdguitarist)
+
 <!--
 **edgares7/edgares7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
